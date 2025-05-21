@@ -1,0 +1,57 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+<h1>Welcome to My vegetable Gardening Hobby</h1>
+    <p>Below are my top three practical gardening tutorials from my coumpond garden. Watch and learn how to grow fresh vegetables using simple methods at home, especially those leaving in urbarn areas.</p>
+    <section>
+        <h2>Planting Spinach in Plastic Bags(Membrane Method)</h2>
+    <p>This Video shows how to grow spinach using plastic bags and a moisture retaining -membrane technique. Its space saving and ideal for small compounds.</p>
+    <iframe
+    src="https://youtube.com/embed/LoqcTEuVIok"
+    title="Video from my youtube-planting Spinach in Plastic Bags(Membarne Method)"
+    width="560"
+    height="315"
+    allow fullsreen>
+    </iframe>
+    </section>
+    <section>
+    <h2>Planting Vegetable Seedlings in Tubes</h2>
+    <p>Learn how to plant and transplant seendlings into black plastic tubes.This reduces the cost of buying seedlings succesfull transplanting.</p>
+    <iframe
+    src="https://youtube.com/embed/zr7RcO7MTLE?si=8gWRP0tcPwFFZz41"
+    title="Video from my youtube-Planting Vegetable Seedlings in Tubes"
+    width="560"
+    height="315"
+    allow fullsreen>
+    </iframe>
+    </section>
+    <section>
+    <h2>Growing Tomatoes at Home</h2>
+        <p>Discover how to plant, support,and care for tomatoes in yourbackyard using available materials and organic care methods.</p>
+        <iframe
+        src="https://youtube.com/embed/cCZYZHujnQo?si=df19XXrv8k5zbowL"
+        title="Video from my youtube-Growing Tomatoes at Home"
+        width="560"
+        height="315"
+        allow fullsceen>
+        </iframe>
+            </section>
+            </main>
+
+
+
+></body>
+
+</html>
+
+** end of index.html **
+
